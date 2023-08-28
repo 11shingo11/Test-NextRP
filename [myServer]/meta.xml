@@ -1,4 +1,0 @@
-<meta>
-     <info author="1shingo1" type="gamemode" name="shingo" description="My Mta San Andreas" />
-     <script src="script.lua" type="server"/>
-</meta>
